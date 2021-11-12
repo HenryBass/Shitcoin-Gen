@@ -10,7 +10,7 @@ letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 letters = list(letters)
 
-name_words = ["elon", "musk", "doge", "coin", "shibu", "inu", "mars", "obama", "sussy"]
+name_words = ["elon", "musk", "doge", "coin", "shibu", "inu", "mars", "obama", "sussy", "moon"]
 
 funny_num = ["69", "420", "21", "911", "666", "80085"]
 
